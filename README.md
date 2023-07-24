@@ -2,6 +2,7 @@
 
 - This project is a clone of the e-commerce website - "Flipkart".
 - The project is built only using pure HTML and CSS.
+- Live demonstration : [Flipkart Clone](https://ritesh-adwani.github.io/Flipkart-UI-Clone/)
 
 ---
 
